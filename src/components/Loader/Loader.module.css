@@ -1,0 +1,11 @@
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 660px;
+  align-items: center;
+}
+
+.verticalMargin {
+    margin: 0 10px;
+}

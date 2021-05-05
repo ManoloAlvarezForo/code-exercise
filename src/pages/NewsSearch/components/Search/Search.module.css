@@ -1,0 +1,8 @@
+.mainContainer {
+  padding: 0 13px 10px 3px !important;
+}
+
+.formWrapper {
+  display: flex;
+  flex-direction: row;
+}
