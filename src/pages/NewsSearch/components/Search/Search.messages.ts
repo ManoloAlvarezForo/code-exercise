@@ -3,7 +3,7 @@ export default {
     newsSearchPlaceHolder: {
       id: 'NEWS_SEARCH_PLACE_HOLDER',
       defaultMessage:
-        'What do you search',
+        'What do you search?',
       description:
         'News search place holder text',
     },
